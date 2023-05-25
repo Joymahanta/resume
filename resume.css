@@ -9,7 +9,7 @@
 }
 /*For body*/
 body {
-    background-color: lightblue;
+    /* background-color: lightblue; */
     display: flex;
     justify-content: center;
     align-items: center;
